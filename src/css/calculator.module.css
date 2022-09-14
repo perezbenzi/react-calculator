@@ -1,3 +1,8 @@
 .calculator {
-    background-color: rgb(15, 15, 15);
+    background-color: rgb(73, 86, 90);
+    height: 90vh;
+    width: 45vh;
+    border-radius: 30px;
+    /* display: flex;  */
+    flex-wrap: wrap;
 }

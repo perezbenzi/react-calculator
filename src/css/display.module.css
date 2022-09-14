@@ -1,0 +1,28 @@
+.display {
+    height: 30vh;
+    width: 45vh;
+    color: #efe;
+}
+
+.mode {
+    height: 10vh;
+    /* width: 45vh; */
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    text-align: center;
+    border: 2px solid green;
+}
+
+.containerBtn {
+    height: fit-content;
+    background-color: bisque;
+    border: 0.3vh solid transparent;
+    border-radius: 1.5vh;
+}
+
+.operation {
+}
+
+.result {
+}
