@@ -7,10 +7,10 @@ export const Display = () => {
             <div className={styles.mode}>
                 <span className={styles.containerBtn}>
                     <button className={`${styles.modeBtn} ${styles.modeLight}`}>
-                        L
+                        ☼
                     </button>
                     <button className={`${styles.modeBtn} ${styles.modeDark}`}>
-                        D
+                        ☾
                     </button>
                 </span>
             </div>
@@ -21,3 +21,5 @@ export const Display = () => {
         </div>
     );
 };
+
+// 1.04.25
